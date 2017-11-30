@@ -1,0 +1,23 @@
+
+body {
+    color: white;
+    background-color: black;
+}
+header {
+    height: 450px;
+    background: red;
+    background-image: url(/Users/Dachampster/Google\ Drive/BOOTCAMP/psycho/axe.jpg);
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-position:center;
+    font-size: 800%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.script {
+    font-size: 200%;
+    text-align: left;
+    font-family: Courier New, Courier, monospace;
+    line-height: 80px;
+}
