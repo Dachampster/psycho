@@ -1,7 +1,7 @@
 
 body {
     color: white;
-    background-color: black;
+    background: linear-gradient(black, red);
 }
 header {
     height: 450px;
