@@ -6,7 +6,7 @@ body {
 header {
     height: 450px;
     background: red;
-    background-image: url(/Users/Dachampster/Google\ Drive/BOOTCAMP/psycho/axe.jpg);
+    background-image: url(axe.jpg);
     background-repeat:no-repeat;
     background-size:100%;
     background-position:center;
